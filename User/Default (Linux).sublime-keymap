@@ -1,0 +1,6 @@
+[
+  { "keys": ["f1"], "command": "expand_fqcn" },
+  { "keys": ["f2"], "command": "find_use" },
+  { "keys": ["f3"], "command": "goto_definition_scope" },
+  { "keys": ["f4"], "command": "insert_php_constructor_property" }
+]

@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "Fira Code",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_bold_tab": true,
+	"material_theme_small_tab": true,
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
